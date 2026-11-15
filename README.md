@@ -1,4 +1,4 @@
-## Hi, I’m Abhinav Goel — an Electrical Engineering student at DTU and a freelance photo and visual editor, with a growing focus on AI response evaluation.
+## Hi, I’m Abhinav Goel, an Electrical Engineering student at DTU and a freelance photo and visual editor, with a growing focus on AI response evaluation.
 
 Featured project: Rubric-Based Evaluation of ChatGPT and Gemini — 20 prompts, a 78-item pass/fail rubric, 156 graded answers and a Python audit.
 
