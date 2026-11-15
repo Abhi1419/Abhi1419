@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I’m Abhinav Goel — an Electrical Engineering student at DTU and a freelance photo and visual editor, with a growing focus on AI response evaluation.
+
+Featured project: Rubric-Based Evaluation of ChatGPT and Gemini — 20 prompts, a 78-item pass/fail rubric, 156 graded answers and a Python audit.
+
+Interested in AI evaluation, data annotation and image quality review. Open to remote contract work, 20–30 hours a week.
+
+LinkedIn
 
 <!--
 **Abhi1419/Abhi1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
